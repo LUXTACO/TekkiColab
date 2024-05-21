@@ -28,7 +28,7 @@
     
   - Upload the notebook to Google Colab
   - Install the server with the first codeblock
-  - Start the server with the secon codeblock
+  - Start the server with the second codeblock
 <br>
   Super easy to setup!
 </p>
