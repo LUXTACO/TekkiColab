@@ -51,18 +51,6 @@
 - **Dependency Management:** Automatically downloads and installs the appropriate version of OpenJDK (17 or 8) based on the selected Minecraft version.
 - **Server Start:**  Initiates the server launch process, including applying custom flags and memory allocation settings.
 
-**4. User-Friendly Interface:**
-
-- **Colorful Output:**  Utilizes the `pystyle` library to enhance the user interface with color-coded messages.
-- **Progress Notifications:** Keeps users informed about each step of the server setup and launch process.
-- **Error Handling:**  Provides helpful error messages and instructions in case of problems encountered during installation or execution.
-
-**5.  Flexibility and Support:**
-
-- **Multiple Server Software:** Supports various server software, including Paper, Fabric, Forge, Vanilla, and Purpur.
-- **Playit.gg Integration:** Enables seamless tunnel creation using playit.gg for easy access to your server.
-- **GitHub Repository:**  Links to the TekkiColab GitHub repository for support and updates.
-
 <p align="center">
   <img src="./media/showcase1.png" style="width: 70%; height: auto;">
 </p>
