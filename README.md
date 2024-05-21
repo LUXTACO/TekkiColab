@@ -1,7 +1,7 @@
 ----
 
 <p align="center">
-  <img src="./media/tekkicolab.png" style="width: 35%; height: auto; border-radius: 100%;">
+  <img src="./media/tekkicolab.jpg" style="width: 35%; height: auto; border-radius: 100%;">
 </p>
 
 ----
