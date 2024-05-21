@@ -14,6 +14,10 @@
   TekkiColab is the better version of the MineColab script, its a full rework of the functions.
 </p>
 
+<a target="_blank" href="https://colab.research.google.com/github/LUXTACO/TekkiColab.git">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 ----
 
 ### <p align="center">🧬 Installation 🧬</p>
