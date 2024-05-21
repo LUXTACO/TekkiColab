@@ -1,17 +1,17 @@
 ----
 
 <p align="center">
-  <img src="./media/tekkicolab.jpg" style="width: 35%; height: auto; border-radius: 100%;">
+  <img src="./media/tekkicolab.jpg" style="width: 35%; height: auto;">
 </p>
 
 ----
-### <p align="center">🤖 DBFarmer 🤖</p>
+### <p align="center">🗄 TekkiColab 🗄</p>
 <br>
 
 <p align="" >
   Before you read anything else, If you are looking for the <strong>FULL IN DEPTH</strong> explanation on how this works check out my <a href="https://youtube.com/@takkeshi_dev">channel</a> in which Ill try to upload the in depth explanation of most of my scripts!
   <br><br>
-  DBFarmer is a tool that completes the story of Dragon Ball Legends autonomously with setting for human assistance and auto anti stuck measures.
+  TekkiColab is the better version of the MineColab script, its a full rework of the functions.
 </p>
 
 ----
@@ -20,33 +20,48 @@
 <br>
 
 <p align="">
-  <strong>Python Script:</strong>
+  <strong>Jupiter Notebook:</strong>
     
-  - For the python script you just need to start it and the libraries should auto download.
-  - Once they auto download you should be good to go!
-  
-  <strong>DBLegends:</strong>
-  
-  - Make sure your game is in english.
-  - Make sure you are on the main menu.
-  - Make sure the images line up in game.
-  
-  <strong>Extras:</strong>
-  
-  - Make sure to not have hdr on!
+  - Upload the notebook to Google Colab
+  - Install the server with the first codeblock
+  - Start the server with the secon codeblock
+<br>
+  Super easy to setup!
 </p>
 
 ----
 ### <p align="center">⛑ How it works ⛑</p>
 <br>
 
-<p align="">
-  To use DBLegends, you need to run the following command in the project directory:
-  
-    python main.py
-  
-  Doing so will activate the script and complete the story for you. You can adjust the settings in the config file to customize the process to your preference.
-</p>
+**1. Server Configuration:**
+
+- **Server Name:**  Allows you to specify the name of your Minecraft server.
+- **Server Flags:** Enables you to customize server settings through additional flags.
+- **Tunnel Service:** Provides a choice between "playit" and "ngrok" for creating secure tunnels to access your server.
+- **Ngrok Configuration:**  For ngrok users, allows specifying the server region and an API key.
+
+**2. Intelligent Functions (Beta):**
+
+- **Auto Server Timer:**  Sets a timer to send a notification before the Colab session automatically shuts down, preventing data loss.
+- **Timer Webhook:**  Requires a Discord webhook URL for sending notifications about the server timer.
+
+**3.  Server Installation and Management:**
+
+- **Installation:** Checks for the existence of a server folder and configures the environment accordingly. If the folder doesn't exist, it guides users through server installation.
+- **Dependency Management:** Automatically downloads and installs the appropriate version of OpenJDK (17 or 8) based on the selected Minecraft version.
+- **Server Start:**  Initiates the server launch process, including applying custom flags and memory allocation settings.
+
+**4. User-Friendly Interface:**
+
+- **Colorful Output:**  Utilizes the `pystyle` library to enhance the user interface with color-coded messages.
+- **Progress Notifications:** Keeps users informed about each step of the server setup and launch process.
+- **Error Handling:**  Provides helpful error messages and instructions in case of problems encountered during installation or execution.
+
+**5.  Flexibility and Support:**
+
+- **Multiple Server Software:** Supports various server software, including Paper, Fabric, Forge, Vanilla, and Purpur.
+- **Playit.gg Integration:** Enables seamless tunnel creation using playit.gg for easy access to your server.
+- **GitHub Repository:**  Links to the TekkiColab GitHub repository for support and updates.
 
 <p align="center">
   <img src="./media/showcase1.png" style="width: 70%; height: auto;">
@@ -72,7 +87,7 @@
 <br>
 
 <p align="">
-    Please use this program only for educational purposes.
+    Please use this program only for educational purposes and a POC.
     <br><br>
     It is not meant to be used in any malicious way, and I decline any responsibility for what you do with it.
     <br><br>
