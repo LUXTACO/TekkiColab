@@ -78,7 +78,7 @@
 <br>
 
 <p align="">
-  DBFarmer is an open source project and welcomes contributions from anyone who is interested. If you want to help improve the tool, you can fork this repository and make a pull request with your changes. You can also report any issues or suggestions on the issues tab.
+  TekkiColab is an open source project and welcomes contributions from anyone who is interested. If you want to help improve the tool, you can fork this repository and make a pull request with your changes. You can also report any issues or suggestions on the issues tab.
 </p>
 
 ----
