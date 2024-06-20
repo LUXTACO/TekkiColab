@@ -20,14 +20,14 @@
   https://discord.gg/PdeTUZ3M62
 </p>
 
-<a target="_blank" href="https://colab.research.google.com/github/LUXTACO/TekkiColab.git">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a>
-
 ----
 
 ### <p align="center">🧬 Installation 🧬</p>
 <br>
+
+<a target="_blank" href="https://colab.research.google.com/github/LUXTACO/TekkiColab.git">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
 
 <p align="">
   <strong>Jupiter Notebook:</strong>
